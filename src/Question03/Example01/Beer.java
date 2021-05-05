@@ -7,7 +7,7 @@ package Question03.Example01;
 
 /**
  *
- * \
+ * @author Chandra Bhanu Tata
  */
 public class Beer extends Alcohol {
 
